@@ -1,6 +1,6 @@
-- Hi, I’m @Trista-Begriff.
-- I’m interested in logic, analysis, and translation between formal and natural languages.
-- I’m currently learning the basics of coding in Python.
+- Hi, I’m Trista (She/Her). An MA Philosophy graduate specialising in formal logic, especially the logical analysis of natural language.
+- I'm good at learning formal languages quickly, and at translating them into natural language and vice versa. 
+- I have experience with python, and am always trying to learn more.
 
 
 <!---
